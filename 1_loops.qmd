@@ -192,7 +192,7 @@ for (FILL_IN_HERE) {
 
 ## TRY IT: Challenge
 
-Using the full medals data set, write one file for each country that has one medals, with just the rows of data for that country (and the header).
+Using the full medals data set, write one file for each country that has won medals, with just the rows of data for that country (and the header).
 
 Note: a directory/folder must exist on your computer before you can write files to it.
 
